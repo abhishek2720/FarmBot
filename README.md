@@ -4,14 +4,8 @@
 
 ![imgonline-com-ua-twotoone-nHcqAwB6EpgjBS](https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fhdy.2012.104/MediaObjects/41437_2013_Article_BFhdy2012104_Fig2_HTML.jpg)
 
-## Model Implementation
-To run model on your local machine click [here](model_deployment/README.md)
-
-## Research work
-You can check about researches we have done [here](research_development/README.md)
-
 ## Dataset we used 
-[Drive link](https://1drv.ms/u/s!Ai8t8GAHdzVUiQQYX0azYhqIDPP6?e=4cpFTI)
+[Drive link](https://drive.google.com/drive/u/2/folders/1CQ101m-jyAFwTE4xfh1tKZyTistlQBoM)
 
 ## Project Report
 You can Checkout project report's pdf [here](Virtuon.pdf)
