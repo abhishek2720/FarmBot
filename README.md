@@ -1,12 +1,8 @@
-# FarmBot
-# VIRTUON (Virtual Try On Network)
+# FarmBot - Weed Detection
 
-#### The objective is to transfer garments across images of people with arbitrary body pose, shape and clothing. </br> Garment transfer is a challenging task that requires
- - disentangling the features of the clothing from the body pose and shape.
- - realistic synthesis of the garment texture on the new body.
+#### The objective is Detect Weeds from crop fields.
 
-
-![imgonline-com-ua-twotoone-nHcqAwB6EpgjBS](https://user-images.githubusercontent.com/72185267/107857221-12b31800-6e53-11eb-9642-af38591a0338.jpg)
+![imgonline-com-ua-twotoone-nHcqAwB6EpgjBS](https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fhdy.2012.104/MediaObjects/41437_2013_Article_BFhdy2012104_Fig2_HTML.jpg)
 
 ## Model Implementation
 To run model on your local machine click [here](model_deployment/README.md)
