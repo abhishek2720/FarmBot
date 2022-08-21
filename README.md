@@ -8,7 +8,7 @@
 [Drive link](https://drive.google.com/drive/u/2/folders/1CQ101m-jyAFwTE4xfh1tKZyTistlQBoM)
 
 ## Project Report
-You can Checkout project report's pdf [here](file:///C:/Users/aa463/OneDrive/Desktop/FarmBot-Team-Innovation_documentation.pdf)
+You can Checkout project report's pdf [here](FarmBot-Team-Innovation_documentation.pdf)
 
 ![](https://github.com/arjunparmar/VIRTUON/blob/main/report_data/0001.jpg)<br/>
 ![](https://github.com/arjunparmar/VIRTUON/blob/main/report_data/0002.jpg)<br/>
